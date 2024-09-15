@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am passionate about computer science and want to learn more!
 <!--
 **Kolbasa3000/Kolbasa3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
